@@ -1,16 +1,23 @@
-### Hi there 👋
+# Software Engineer and Data Science Enthusiast
 
-<!--
-**chehrehgosha/chehrehgosha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+I am an EIT Digital master school student and also EIT Digital scholar. I have always been interested in digital creation. Designing and implementing web and native apps are my main fields of interest. What I've found the most exciting during my master's studies is bringing the ML solutions to backend and logic of the softwares. I'm building my specilization into the Data Science and Machine Learning with the help of my vast experience in Software Engineering and Development.
 
-Here are some ideas to get you started:
+### Skills
+- Programming: Python, Javascript, C++, MATLAB
+- Web Development Frameworks: Node.js, Reactjs, Angular, Expressjs, Flask, Redux
+- ML/DS Frameworks: Pandas, Scikit-learn, Tensorflow, NumPy
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hobbies 
+- Hiking 🏔
+- Video and Photo Editing 🎞
+- Online-Video Games 🕹
+- Travelling ⛵️
+
+### Other Links
+- ###### [GitHub Website]
+- ###### [LinkedIn]
+
+   [GitHub Website]: <https://chehrehgosha.github.io/>
+   [LinkedIn]: <https://www.linkedin.com/in/omid-chehrehgosha/>
+  
