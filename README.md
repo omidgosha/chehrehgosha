@@ -1,6 +1,8 @@
 # Software Developer Engineer
 
 ### About me
+
+
 Here is Omid Gosha, a member of Video-CTV team at Criteo Company. 
 I am curious about software engineering on any aspect, and a fast-learner ramping up with new technologies.
 During my recent experience in Criteo, I got myself occupied in different projects:
