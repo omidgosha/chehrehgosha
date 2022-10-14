@@ -3,10 +3,11 @@
 ### About me
 
 
-Here is Omid Gosha, a member of Video-CTV team at Criteo Company. 
+Here is Omid Gosha, a member of Video-CTV squad at Criteo Company. 
 I am curious about software engineering on any aspect, and a fast-learner ramping up with new technologies.
 During my recent experience in Criteo, I got myself occupied in different projects:
-I am an EIT Digital master school student and also EIT Digital scholar. I have always been interested in digital creation. Designing and implementing web and native apps are my main fields of interest. What I've found the most exciting during my master's studies is bringing the ML solutions to backend and logic of the softwares. I'm building my specilization into the Data Science and Machine Learning with the help of my vast experience in Software Engineering and Development.
+- Video Ads render engine: C# code base: maintenance and development of the pipeline to produce VAST tags for video advertisements. From the real-time bidding to rendering the final VAST tag.
+- Video Ads delivery: Typescript code base: development and introduction of new frameworks to company's production phase; used for viewability measurements and tracking users' interactions.
 
 ### Skills
 - Programming: Python, Javascript, C++, MATLAB
